@@ -1,0 +1,12 @@
+Adobe After Effects v13.5 Windows 64 render log for project “gifs behance 1.1.aep”
+
+Rendering started on 04/10/2019 at 3:23:52
+
+  04/10/2019 3:23:52: Starting composition “Master InverVillegas”.
+
+  Output To: D:\PROYECTOS\InverVillegas\AE CC 2014 Behance\render\render after effects\colors x.mov    04/10/2019 3:23:56: Finished composition “Master InverVillegas”.
+
+
+  Total Time Elapsed: 4 Seconds
+Log closed on 04/10/2019 at 3:23:56
+
